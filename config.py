@@ -54,10 +54,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/iamnobita08/NOBITA_CLONE")
+SOURCE = getenv("SOURCE", "https://github.com/MikeyxBotz/SUSANT-MUSIC-CLONE")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/iamnobita08/NOBITA_CLONE",
+    "https://github.com/MikeyxBotz/SUSANT-MUSIC-CLONE",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOBITA_MUSIC_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+wPjAlUcObehiZDM1")
-CHAT = getenv("CHAT", "https://t.me/ll_NOBITA_DEFAULTERS_ll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SusantxBotz")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+7WsZh7pyfxZhYmQ1")
+CHAT = getenv("CHAT", "https://t.me/IM_SUSANT")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
