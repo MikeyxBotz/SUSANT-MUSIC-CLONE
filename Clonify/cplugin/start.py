@@ -49,11 +49,11 @@ async def start_pm(client, message: Message, _):
     
     await loading_1.edit_text("<b>ʟᴏᴀᴅɪɴɢ</b>")
     C_BOT_SUPPORT_CHAT = await get_cloned_support_chat(a.id)
-    C_SUPPORT_CHAT = f"https://t.me/+wPjAlUcObehiZDM1"
+    C_SUPPORT_CHAT = f"https://t.me/+7WsZh7pyfxZhYmQ1"
     # await asyncio.sleep(0.1)
     await loading_1.edit_text("<b>ʟᴏᴀᴅɪɴɢ.</b>")
     C_BOT_SUPPORT_CHANNEL = await get_cloned_support_channel(a.id)
-    C_SUPPORT_CHANNEL = f"https://t.me/NOBITA_MUSIC_SUPPORT"
+    C_SUPPORT_CHANNEL = f"https://t.me/SusantxBotz"
     # await asyncio.sleep(0.1)
     await loading_1.edit_text("<b>ʟᴏᴀᴅɪɴɢ..</b>")
     await asyncio.sleep(0.1)
@@ -162,9 +162,9 @@ async def start_gp(client, message: Message, _):
     a = await client.get_me()
     #Cloned Bot Support Chat and channel
     C_BOT_SUPPORT_CHAT = await get_cloned_support_chat(a.id)
-    C_SUPPORT_CHAT = f"https://t.me/+wPjAlUcObehiZDM1"
+    C_SUPPORT_CHAT = f"https://t.me/+7WsZh7pyfxZhYmQ1"
     C_BOT_SUPPORT_CHANNEL = await get_cloned_support_channel(a.id)
-    C_SUPPORT_CHANNEL = f"https://t.me/NOBITA_MUSIC_SUPPORT"
+    C_SUPPORT_CHANNEL = f"https://t.me/SusantxBotz"
     # out = start_panel(_)
     out = [
                     [
